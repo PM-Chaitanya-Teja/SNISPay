@@ -19,6 +19,9 @@ SNISPay Banking Management System is a Java and MySQL based application develope
 1. Compile the project: javac src/*.java
 2. Run the application: java src.Login
 
+## Note
+Please check and update the package names after downloading, as they may differ from system to system.
+
 ## Project Type
 Academic Mini Project
 
