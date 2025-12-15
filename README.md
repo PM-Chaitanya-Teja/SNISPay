@@ -3,9 +3,9 @@
 SNISPay Banking Management System is a Java and MySQL based application developed to manage basic banking and payment operations efficiently.
 
 ## Features
-- User login and authentication  
+- User login and checking
 - Account creation and management  
-- Deposit, withdrawal, and fund transfer  
+- Deposit and withdrawal
 - View account balance and transaction history  
 - Secure and user-friendly system  
 
